@@ -1,5 +1,10 @@
+import React, {useEffect} from "react"
+import { redirect } from "react-router-dom"
+
 
 const Home = () => {
+
+
     return (
         <div>
             <h1>Home</h1>
